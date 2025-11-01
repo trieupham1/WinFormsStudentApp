@@ -1,0 +1,17 @@
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.exe.config
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.exe
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.pdb
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.AssemblyReference.cache
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.CoursesForm.resources
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.DepartmentsForm.resources
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.Form1.resources
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.InstructorsForm.resources
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.MainForm.resources
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.Properties.Resources.resources
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.StudentEnrollmentsForm.resources
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.StudentsForm.resources
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.GenerateResource.cache
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.exe
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.pdb
+C:\Users\QUOC TRIEU\Downloads\SE\Labs\lab2\source\HW\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.exe.config
